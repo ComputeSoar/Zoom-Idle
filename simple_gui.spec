@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['simple_gui.py'],
-             pathex=['C:\\Users\\muisc\\Desktop\\ZoomIdle'],
+             pathex=['C:\\Users\\USER\\Desktop\\ZoomIdle'],
              binaries=[],
              datas=[],
              hiddenimports=['pyautogui'],
